@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @orochileo
 - 👀 I’m interested in growing into a productive software engineer
-- 🌱 I’m currently working for AWS IAM
+- 🌱 I’m currently working at Meta as a SWE
 - 💞️ I’m looking to collaborate on resolving real-world problems with technology
 - 📫 How to reach me: through email orochileo1986@gmail.com
 
